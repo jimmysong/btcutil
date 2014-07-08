@@ -10,9 +10,9 @@ import (
 	"errors"
 
 	"code.google.com/p/go.crypto/ripemd160"
-	"github.com/conformal/btcec"
-	"github.com/conformal/btcnet"
-	"github.com/conformal/btcwire"
+	"github.com/monetas/btcec"
+	"github.com/monetas/btcnet"
+	"github.com/monetas/btcwire"
 )
 
 var (

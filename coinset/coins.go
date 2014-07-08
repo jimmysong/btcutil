@@ -5,8 +5,8 @@ import (
 	"errors"
 	"sort"
 
-	"github.com/conformal/btcutil"
-	"github.com/conformal/btcwire"
+	"github.com/monetas/btcutil"
+	"github.com/monetas/btcwire"
 )
 
 // Coin represents a spendable transaction outpoint

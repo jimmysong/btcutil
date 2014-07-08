@@ -11,8 +11,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/conformal/btcutil"
-	"github.com/conformal/btcwire"
+	"github.com/monetas/btcutil"
+	"github.com/monetas/btcwire"
 	"github.com/davecgh/go-spew/spew"
 )
 

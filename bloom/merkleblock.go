@@ -5,9 +5,9 @@
 package bloom
 
 import (
-	"github.com/conformal/btcchain"
-	"github.com/conformal/btcutil"
-	"github.com/conformal/btcwire"
+	"github.com/monetas/btcchain"
+	"github.com/monetas/btcutil"
+	"github.com/monetas/btcwire"
 )
 
 // merkleBlock is used to house intermediate information needed to generate a
